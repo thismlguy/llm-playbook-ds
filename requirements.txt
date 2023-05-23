@@ -1,0 +1,2 @@
+langchain==0.0.177  # there is no stable release yet, so using a hard pin
+pandas>=2.0.1,<3
