@@ -15,7 +15,7 @@ Some courses gaining popularity in the community are listed below:
 Here are some resources to help you understand how LLMs work:
 
 University Courses:
-- [Transformers United, Stanford University](https://web.stanford.edu/class/cs25/) [youtube]()
+- [Transformers United, Stanford University](https://web.stanford.edu/class/cs25/) [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 Papers based on transformer architecture:
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762.pdf)
