@@ -49,7 +49,9 @@ Individual blogs:
 
 # Prompt Engineering
 
+Tutorials:
+- [ChatGPT Prompt Engineering for Developers, deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
 Papers:
 - [PPLM: Plug and Play Language Models for Conditional Text Generation](https://arxiv.org/abs/1912.02164.pdf)
 - 
-
