@@ -14,7 +14,7 @@ Examples are present in the form of notebooks:
 - [Code Generation: data science salaries case study](examples/ds-salaries-code-generation.ipynb)
 - [Information Extraction: JioMart case study](examples/jiomart-product-metadata-extraction.ipynb)
 - [Text Summarization: Delta Air Lines twitter customer support case study](examples/delta-airlines-twitter-analysis.ipynb)
-
+- [Query Generation: Google analytics case study](examples/query-generation-google-analytics.ipynb)
 
 ## Contributing Examples
 

@@ -11,7 +11,7 @@ Topic wise resources are listed below:
 
 ## Organized Courses
 Some courses gaining popularity in the community are listed below:
-- [Transformers United, Stanford University](https://web.stanford.edu/class/cs25/) [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) 
+- [Transformers United, Stanford University](https://web.stanford.edu/class/cs25/) [\[youtube\]](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) 
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 - [ChatGPT Prompt Engineering for Developers, deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
