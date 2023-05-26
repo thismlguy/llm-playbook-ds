@@ -69,6 +69,6 @@ List some of useful resources on prompt engineering:
 
 ## GitHub Repositories
 
-- [Langchain](
+- [Langchain](https://github.com/hwchase17/langchain/)
+- [CodeGenie](https://github.com/thismlguy/code-genie)
 - [LLM Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
-- 
